@@ -1,0 +1,49 @@
+.search_div{
+    margin-left: 5px;
+    display: flex;
+    border: 2px solid rgb(181, 174, 174);
+    width: auto;
+    height: 200px;
+    background-color: rgb(242, 238, 233);
+}
+.images{
+    padding-top: 5px;
+    width: 200px;
+    border-radius: 5px;
+    height: 200px;}
+.head_cnt{
+    color: rgb(11, 99, 242);
+}
+.head_cnt>span{
+    color: black;
+}
+.head_cnt>Button{
+  height: 20px;
+background-color: green;
+  font-size: x-small;
+  text-align: center;
+}
+.head_cnt>label{
+    color: green;
+}
+
+.price_cnt{
+    padding-top: 5px;
+   
+}
+.price_cnt1{
+    display: flex;
+  
+}
+
+.price_cnt>Button{
+    
+    width: auto;
+    /* height: 5px; */
+}
+.see_avil{
+    width: auto;
+    height: 30px;
+    
+
+}

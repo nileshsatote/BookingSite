@@ -1,0 +1,45 @@
+
+[
+    {
+        "hotelName":"Shahi Darbar Hotel",
+        "distance" : "500m from Center",
+        "price":"5000.00Rs",
+        "poster":"https://www.bing.com/ck/a?!&&p=4747faa7a121781eJmltdHM9MTY3NTk4NzIwMCZpZ3VpZD0xNzRjYzQxOC01NzAwLTZhZDQtMGY2Mi1kNDg1NTZiMjZiYWYmaW5zaWQ9NTQ5Nw&ptn=3&hsh=3&fclid=174cc418-5700-6ad4-0f62-d48556b26baf&u=a1L2ltYWdlcy9zZWFyY2g_cT1Ib3RlbCUyMEltYWdlcyUyMEhEJkZPUk09SVFGUkJBJmlkPTRDMkNFQkMzMTU1Nzk4NTEwMTRFNEM2MjQyM0EwRTNENURGODc3MDY&ntb=1"
+
+    },
+    {
+        "hotelName":"Savariya Seth Hotel",
+        "distance" : "1000m from Center",
+        "price":"4500.00Rs",
+        "poster":"https://www.bing.com/ck/a?!&&p=4747faa7a121781eJmltdHM9MTY3NTk4NzIwMCZpZ3VpZD0xNzRjYzQxOC01NzAwLTZhZDQtMGY2Mi1kNDg1NTZiMjZiYWYmaW5zaWQ9NTQ5Nw&ptn=3&hsh=3&fclid=174cc418-5700-6ad4-0f62-d48556b26baf&u=a1L2ltYWdlcy9zZWFyY2g_cT1Ib3RlbCUyMEltYWdlcyUyMEhEJkZPUk09SVFGUkJBJmlkPTRDMkNFQkMzMTU1Nzk4NTEwMTRFNEM2MjQyM0EwRTNENURGODc3MDY&ntb=1"
+
+    },
+    {
+        "hotelName":"Hotel Hindustan",
+        "distance" : "500m from Center",
+        "price":"3000.00Rs",
+        "poster":"https://www.bing.com/ck/a?!&&p=4747faa7a121781eJmltdHM9MTY3NTk4NzIwMCZpZ3VpZD0xNzRjYzQxOC01NzAwLTZhZDQtMGY2Mi1kNDg1NTZiMjZiYWYmaW5zaWQ9NTQ5Nw&ptn=3&hsh=3&fclid=174cc418-5700-6ad4-0f62-d48556b26baf&u=a1L2ltYWdlcy9zZWFyY2g_cT1Ib3RlbCUyMEltYWdlcyUyMEhEJkZPUk09SVFGUkJBJmlkPTRDMkNFQkMzMTU1Nzk4NTEwMTRFNEM2MjQyM0EwRTNENURGODc3MDY&ntb=1"
+
+    },
+    {
+        "hotelName":"Dubai   Vibes Hotel",
+        "distance" : "500m from Center",
+        "price":"5300.00Rs",
+        "poster":"https://www.bing.com/ck/a?!&&p=4747faa7a121781eJmltdHM9MTY3NTk4NzIwMCZpZ3VpZD0xNzRjYzQxOC01NzAwLTZhZDQtMGY2Mi1kNDg1NTZiMjZiYWYmaW5zaWQ9NTQ5Nw&ptn=3&hsh=3&fclid=174cc418-5700-6ad4-0f62-d48556b26baf&u=a1L2ltYWdlcy9zZWFyY2g_cT1Ib3RlbCUyMEltYWdlcyUyMEhEJkZPUk09SVFGUkJBJmlkPTRDMkNFQkMzMTU1Nzk4NTEwMTRFNEM2MjQyM0EwRTNENURGODc3MDY&ntb=1"
+
+    },
+    {
+        "hotelName":"saayaji indore Hotel",
+        "distance" : "300m from Center",
+        "price":"3000.00Rs",
+        "poster":"https://www.bing.com/ck/a?!&&p=4747faa7a121781eJmltdHM9MTY3NTk4NzIwMCZpZ3VpZD0xNzRjYzQxOC01NzAwLTZhZDQtMGY2Mi1kNDg1NTZiMjZiYWYmaW5zaWQ9NTQ5Nw&ptn=3&hsh=3&fclid=174cc418-5700-6ad4-0f62-d48556b26baf&u=a1L2ltYWdlcy9zZWFyY2g_cT1Ib3RlbCUyMEltYWdlcyUyMEhEJkZPUk09SVFGUkJBJmlkPTRDMkNFQkMzMTU1Nzk4NTEwMTRFNEM2MjQyM0EwRTNENURGODc3MDY&ntb=1"
+
+    },
+    {
+        "hotelName":"LoveingPoint Hotel",
+        "distance" : "600m from Center",
+        "price":"5200.00Rs",
+        "poster":"https://www.bing.com/ck/a?!&&p=4747faa7a121781eJmltdHM9MTY3NTk4NzIwMCZpZ3VpZD0xNzRjYzQxOC01NzAwLTZhZDQtMGY2Mi1kNDg1NTZiMjZiYWYmaW5zaWQ9NTQ5Nw&ptn=3&hsh=3&fclid=174cc418-5700-6ad4-0f62-d48556b26baf&u=a1L2ltYWdlcy9zZWFyY2g_cT1Ib3RlbCUyMEltYWdlcyUyMEhEJkZPUk09SVFGUkJBJmlkPTRDMkNFQkMzMTU1Nzk4NTEwMTRFNEM2MjQyM0EwRTNENURGODc3MDY&ntb=1"
+
+    }
+]

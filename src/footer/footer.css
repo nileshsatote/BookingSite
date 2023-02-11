@@ -1,0 +1,36 @@
+.footer_cnt{
+    background-color:rgb(54, 18, 163);
+    width: auto;
+    height: 200px;
+    text-align: center;
+}
+.footer_heading{
+    color: #f1f5f9;
+    padding: 20px;
+}
+.text_filed{
+    background-color: aliceblue;
+    width: 250px;
+    height: 35px;
+    border: none;
+    border-radius: 5px;
+   cursor: pointer;
+   text-align: center;
+}
+.link_cnt{
+    background-color:rgb(54, 18, 163);
+    height: 50px;
+    color: #e3e8ed;
+    font-family: comic sans Ms;
+    text-align: center;
+  
+}
+.footer2_Sec{
+    padding-top: 5%;
+    padding-bottom: 5%;
+    
+    display: flex;
+}
+.footer2{
+    align-items: center;
+}

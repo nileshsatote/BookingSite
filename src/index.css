@@ -1,13 +1,71 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* navbar css */
+
+.site_h {
+  background-color: rgb(54, 18, 163);
+  font-family: comic sans Ms;
+  font-size: xx-large;
+  width: auto;
+  /* height: 500px; */
+}
+.h1heading {
+  margin-left: 25px;
+}
+.btn_class {
+}
+.heading,
+.btn_class {
+  margin-left: 25px;
+  font-family: comic sans Ms;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+/* icon css */
+
+.icon_cnt {
+  background-color: rgb(54, 18, 163);
+  height: auto;
+  display: flex;
 }
+.cnt {
+  margin-left: 40px;
+}
+.icon_css {
+  margin-bottom: 10px;
+  margin-top: 25px;
+
+  color: aliceblue;
+  margin-left: 25px;
+}
+.redius {
+  border: 2px solid white;
+  padding: 1px;
+  margin: 1px;
+  border-radius: 20px;
+}
+.head_parg {
+  background-color: rgb(54, 18, 163);
+  height: 200px;
+  color: aliceblue;
+}
+.heading_p,
+.paragraph {
+  /* margin-top: 5px; */
+  margin-left: 25px;
+  margin-bottom: 5px;
+}
+
+@media screen and (max-width:500px ){
+    *{
+        scale: 1;
+        overflow-x: hidden;
+    }
+    .resp-btn{
+        position: absolute;
+        top: 5px;
+        right: 10px;
+    }
+}
+

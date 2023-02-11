@@ -1,0 +1,25 @@
+.offer_slide{
+    width: 100%;
+    max-width: 1024px;
+    display:flex;
+    justify-content: space-between;
+    gap: 20px;
+    border: 2px solid rgba(1, 1, 0, 0.098);
+}
+
+.offer_slide_div{
+    width: 500px;
+    background-color: rgb(230, 239, 239);
+    height: 160px;
+    /* display: flex; */
+    
+}
+.offer_slide_img{
+    width: 220px;
+    background-color: rgb(230, 239, 239);
+display: flex;
+
+}
+.swiper_cnt{
+    display: flex;
+}

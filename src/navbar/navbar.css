@@ -1,0 +1,22 @@
+.head_name{
+    width: auto;
+    background-color:rgb(54, 18, 163);
+    height: auto;
+    display: flex;
+}
+.B_heading,.btn_head{
+    margin-left: 25px;
+    font-family: comic sans Ms;
+    color: aliceblue;
+}
+.nilesh
+{
+    /* color: blue; */
+}
+
+@media screen and (max-width:500px){
+    .head_name{
+        position: absolute;
+        width: 100%;
+    }
+}
